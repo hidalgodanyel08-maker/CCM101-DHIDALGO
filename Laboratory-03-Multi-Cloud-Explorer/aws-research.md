@@ -28,4 +28,5 @@
 - Disaster recovery and backup
 
 ## Screenshot
-![AWS Homepage](./screenshots/aws-homepage.png)
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/255337ea-343f-4a37-a0b6-6f7de87aecb1" />
+
