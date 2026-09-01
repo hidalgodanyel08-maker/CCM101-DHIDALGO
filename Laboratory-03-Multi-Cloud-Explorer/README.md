@@ -14,7 +14,7 @@
 ### Disk Space
 [Summarize disk - e.g., "50GB available on /dev/sda1"]
 
-## Cloud Hosting Options for This Linux Server
+## Cloud Hosting Options for This Linux Server.
 
 If this Linux server were migrated to the cloud, it could be hosted using:
 
