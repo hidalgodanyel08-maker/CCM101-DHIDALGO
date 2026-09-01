@@ -12,6 +12,26 @@
 | **Primary Strength** | Broadest service catalog | Microsoft integration | Data & AI/ML |
 | **Ideal Organizations** | Startups, cloud-native | Enterprise, Microsoft shops | Data-driven, AI-focused |
 
+## Cloud Service Equivalency Reference
+
+| **Service Category** | **AWS** | **Azure** | **GCP** |
+|---|---|---|---|
+| **Virtual Machine** | EC2 | Virtual Machines | Compute Engine |
+| **Object Storage** | S3 | Blob Storage | Cloud Storage |
+| **Identity Management** | IAM | Entra ID (Azure AD) | Cloud IAM |
+| **SQL Database** | RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | EKS | AKS | GKE |
+| **Serverless Compute** | Lambda | Functions | Cloud Run/Functions |
+| **Load Balancing** | ELB | Load Balancer | Cloud Load Balancing |
+| **DNS** | Route 53 | Azure DNS | Cloud DNS |
+| **CDN** | CloudFront | Front Door/CDN | Cloud CDN |
+| **Monitoring** | CloudWatch | Azure Monitor | Cloud Monitoring |
+
+*Note: AWS launched in 2006, Azure in 2010, and GCP in 2008.* [citation:13]
+
+Based on: Google Cloud documentation [citation:8] and industry comparisons [citation:1][citation:4][citation:12]
+
+
 ## Analysis Questions
 
 ### 1. Which cloud provider offers the broadest range of services?
