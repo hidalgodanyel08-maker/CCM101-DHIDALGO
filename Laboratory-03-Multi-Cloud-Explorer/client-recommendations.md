@@ -1,3 +1,15 @@
+## Multi-Cloud Decision Matrix
+
+| **Business Requirement** | **Recommended Platform** | **Justification** |
+|---|---|---|
+| **Startup Company** | AWS | AWS Activate credits, broad free tier, scalable services, pay-as-you-go model. [citation:13] |
+| **Enterprise Organization** | Azure | Enterprise-grade SLAs, Microsoft integration, hybrid capabilities (Arc). [citation:5] |
+| **Microsoft Environment** | Azure | Native integration with Active Directory, Windows Server, and Microsoft 365. [citation:9][citation:13] |
+| **AI / Machine Learning** | GCP | Best-in-class Vertex AI, TPU accelerators, BigQuery integration, Kubernetes leadership. [citation:1][citation:9] |
+| **Kubernetes Deployment** | GCP | GKE is the most mature managed Kubernetes service; Google invented Kubernetes. [citation:1][citation:9] |
+| **Global Web Application** | AWS | Broadest global reach, most mature CDN (CloudFront) and load-balancing services. [citation:13] |
+
+
 # Client Recommendations
 
 ## Client A – Startup Company
